@@ -2,7 +2,8 @@
 title: 旅行资助
 menu:
    main:
-      weight: 20       
+      weight: 20
+draft: true         
 ---
 
 Apache软件基金会 [旅行资助委员会（Travel Assistance Committee，TAC）](https://tac.apache.org/) 为本次会议提供旅行资助。
