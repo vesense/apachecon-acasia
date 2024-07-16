@@ -20,8 +20,7 @@
 					{{ end }}
 
 					<div class="home-btn-wrap">
-						<a 
-						  href="#register" 
+						<a href="{{ if eq .Site.Language.Lang "zh" }}/zh/{{end}}#register"
 							role="button" 
 							class="btn btn-warning btn-lg">
 							{{ i18n "register" }}
