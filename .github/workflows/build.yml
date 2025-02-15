@@ -59,22 +59,15 @@ jobs:
           # The asf.yaml file must be in the branch from which the files are published.
           # Otherwise, ASF publishing tools cannot detect it.
           cp .asf.yaml ./dist/
-      - name: Configure git
-        if: ${{ github.event_name == 'push' }}
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@users.noreply.github.com"
-      
+         
       - name: 🚀 Add commit to the gh-pages branch and deploy it
         if: ${{ github.event_name == 'push' }}
         working-directory: dist
         run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Regenerated website based on ${GITHUB_SHA} commit" 
-      
-      - name: Push changes
-        if: ${{ github.event_name == 'push' }}
-        run: |
+          git diff-index --quiet HEAD || git commit -m "Regenerated website based on ${GITHUB_SHA} commit"
           git push origin gh-pages
-          
-   
+      
+     
