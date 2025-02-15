@@ -59,21 +59,22 @@ jobs:
           # The asf.yaml file must be in the branch from which the files are published.
           # Otherwise, ASF publishing tools cannot detect it.
           cp .asf.yaml ./dist/
+      - name: Configure git
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+      
       - name: 🚀 Add commit to the gh-pages branch and deploy it
         if: ${{ github.event_name == 'push' }}
         working-directory: dist
         run: |
-          echo "Running git config"
-          git config user.name "GitHub Actions"
-          git config user.email "actions@users.noreply.github.com"
-          echo "Running git add"
           git add .
-          echo "Running git commit"
-          git commit -m "Regenerated website based on ${GITHUB_SHA} commit" > ../git_commit.log
+          git diff-index --quiet HEAD || git commit -m "Regenerated website based on ${GITHUB_SHA} commit" 
+      
+      - name: Push changes
+        if: ${{ github.event_name == 'push' }}
+        run: |
           git push origin gh-pages
-      - name: 🚀 Upload git commit log as artifacts
-        uses: actions/upload-artifact@65c4c4a1ddee5b72f698fdd19549f0f0fb45cf08  # v4.6
-        with:
-          name: cocasia-git-commit-log
-          path: './git_commit.log'
-          retention-days: 5
+          
+   
