@@ -48,9 +48,9 @@ jobs:
       - name: 🔧 Build site
         run: |
           env HUGO_ENV="production" hugo
-      - name: 👷 Cleanup dist directory except .git and CNAME (each fork can have its own CNAME)
+      - name: 👷 Cleanup dist directory except .git, 2024 and CNAME (each fork can have its own CNAME)
         if: ${{ github.event_name == 'push' }}
-        run: find ./dist -mindepth 1 ! -path ./dist/CNAME ! -path './dist/.git*' -delete -print
+        run: find ./dist -mindepth 1 ! -path ./dist/CNAME ! -path './dist/.git*' ! -path './dist/2024*' -delete -print
       - name: 👷 Copy ./public/* and ./resources/* and .asf.yaml to /dist/
         if: ${{ github.event_name == 'push' }}
         run: |
