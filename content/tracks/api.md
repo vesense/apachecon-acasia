@@ -1,6 +1,13 @@
 ---
-title: Monolith vs Microservice
+title: Microservice
 trackchairs: "Jun Liu"
 ---
-Microservices have become the default choice for our technology stack, and it seems that anything other than microservices is considered outdated. However, in the past two years, doubts about microservices have started to emerge, and people have begun to miss the simplicity and directness of monolithic services, avoiding the various governance costs that come with service-oriented architecture.
-The industry has also witnessed the emergence of new programming frameworks that provide developers with the experience and efficiency of monolithic development while retaining the flexibility, scalability, and even certain serverless characteristic
+Whether in the era of Cloud Native or AI-led transformation today, microservices remain the cornerstone of underlying systems, helping us build resilient and scalable distributed systems. Join us as we uncover:
+
+* High-Performance RPC Frameworks – Learn how projects like Apache Dubbo, Apache Thrift, and Apache bRPC are redefining service-to-service communication with speed, efficiency, and interoperability.
+
+* AI-Driven Microservices – Discover how AI and ML are revolutionizing service orchestration, anomaly detection, and autonomous scaling in microservice ecosystems.
+
+* The Next-Gen Service Mesh – Beyond traditional sidecars, we explore the rise of Proxyless Service Mesh and how it transforms observability, security, and traffic management in cloud-native environments.
+
+* Cloud-Native Microservices – From Kubernetes to serverless, we discuss how cloud-native principles optimize microservice architectures for scalability, resilience, and automation.
