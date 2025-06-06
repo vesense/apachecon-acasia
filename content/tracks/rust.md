@@ -1,8 +1,8 @@
 ---
 title: Rust
-trackchairs: "tison, YinXu"
+trackchairs: "tison, Yin Xu"
 ---
-The Rust ecosystem is rapidly approaching. Many ASF projects provide their Rust SDK. Also, quite a few new TLPs/podllings are primarily
-written in Rust, including Apache DataFusion,Apache OpenDAL, Apache HoraeDB (incubating), and so on.
 
-This track aims to share the evolution of Rust projects and integrations within and around the ASF. Hopefully, we show how ASF projects provide good Rust practices, and a Rust project can grow it community healthily under the Apache way.
+The Rust ecosystem is flourishing. Many ASF projects now offer Rust SDKs, and several new ASF projects are primarily written in Rust, such as Apache OpenDAL and Apache HoraeDB (Incubating), among others.
+
+The Rust Track aims to share the evolution of Rust projects and integrations within the ASF and broader open-source ecosystem. It will demonstrate how ASF projects provide excellent Rust implementations and illustrate how the incubator helps Rust projects develop healthy communities under the guidance of The Apache Way.

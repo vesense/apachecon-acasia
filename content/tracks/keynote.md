@@ -1,6 +1,6 @@
 ---
 title: Keynote
-trackchairs: "Willem Jiang, Nadia Jiang, Richard Bian"
+trackchairs: "Willem Jiang, Nadia Jiang, Sikang Bian"
 ---
 Keynote track is the main track.
 we invite many famous people in open source community,

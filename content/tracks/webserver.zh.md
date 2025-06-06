@@ -1,6 +1,6 @@
 ---
-title: Web Server/Tomcat
-trackchairs: "张乎兴，李晗"
+title: Web 服务器
+trackchairs: "张乎兴, 李晗"
 ---
 
 随着现代 Web 应用需求的不断增长，构建高效、可扩展且安全的 Web 系统已成为技术发展的核心目标。

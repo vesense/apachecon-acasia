@@ -1,8 +1,8 @@
 trackchairs:
   other: 出品人
 
-track:
-  other: 议题
+tracks:
+  other: 会议日程
 
 translation:
   other: English
@@ -166,3 +166,9 @@ getting-there:
 
 venue_travel:
   other: 会场 + 旅行
+
+business_travel:
+  other: 差旅住宿
+
+unknown_date:
+  other: 时间待定
