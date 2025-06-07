@@ -1,5 +1,5 @@
 ---
-title: "优化可观测性：揭秘BanyanDB的热-温-冷架构"
+title: "Optimizing Observability: Unveiling BanyanDB's Hot-Warm-Cold Architecture"
 date: ""
 track: "observability"
 presenters: "Hongtao Gao"

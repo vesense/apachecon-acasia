@@ -2,7 +2,7 @@
 title: "Kafka migration and disaster recovery architecture"
 date: ""
 track: "messaging"
-presenters: "仕林 鲁"
+presenters: "Shilin Lu"
 stype: "Chinese Session"
 ---
 
