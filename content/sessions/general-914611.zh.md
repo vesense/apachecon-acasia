@@ -2,7 +2,7 @@
 title: "Apache HugeGraph 1.5.0：企业级部署最佳实践"
 date: ""
 track: "general"
-presenters: "浩 赵"
+presenters: "赵浩"
 stype: "中文演讲"
 --- 
 

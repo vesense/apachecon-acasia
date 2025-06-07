@@ -2,7 +2,7 @@
 title: "Apache Hudi 实战：加速快手数据仓库架构升级"
 date: ""
 track: "datalake"
-presenters: "朝阳 刘"
+presenters: "刘朝阳"
 stype: "中文演讲"
 --- 
 

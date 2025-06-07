@@ -2,7 +2,7 @@
 title: "Kafka 迁移与容灾架构"
 date: ""
 track: "messaging"
-presenters: "仕林 鲁"
+presenters: "鲁仕林"
 stype: "中文演讲"
 --- 
 

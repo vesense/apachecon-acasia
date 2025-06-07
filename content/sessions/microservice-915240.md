@@ -2,7 +2,7 @@
 title: "Microservice Innovation in the AI Era: From Architecture Reshaping to Agent Driven Development"
 date: ""
 track: "microservice"
-presenters: "国庆 丛"
+presenters: "GuoQing Cong"
 stype: "Chinese Session"
 --- 
 

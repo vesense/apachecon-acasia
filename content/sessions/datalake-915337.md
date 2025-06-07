@@ -2,7 +2,7 @@
 title: "Apache Hudi in Action: Accelerating Kuaishou's Data Warehouse Architecture Upgrade"
 date: ""
 track: "datalake"
-presenters: "朝阳 刘"
+presenters: "Chaoyang Liu"
 stype: "Chinese Session"
 --- 
 

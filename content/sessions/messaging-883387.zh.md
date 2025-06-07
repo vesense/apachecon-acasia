@@ -2,7 +2,7 @@
 title: "Apache Pulsar 在腾讯云上的高可用性最佳实践"
 date: ""
 track: "messaging"
-presenters: "明泽 韩"
+presenters: "韩明泽"
 stype: "中文演讲"
 --- 
 

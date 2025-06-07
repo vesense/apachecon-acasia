@@ -2,7 +2,7 @@
 title: "Apache HugeGraph 1.5.0: Best Practices for Enterprise-Grade Deployment"
 date: ""
 track: "general"
-presenters: "浩 赵"
+presenters: "Hao Zhao"
 stype: "Chinese Session"
 --- 
 

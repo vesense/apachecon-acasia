@@ -2,7 +2,7 @@
 title: "Apache RocketMQ Eventbridge: Why Your GenAI Needs EDA？"
 date: ""
 track: "messaging"
-presenters: "林 沈"
+presenters: "Lin Shen"
 stype: "Chinese Session"
 --- 
 
@@ -19,4 +19,4 @@ Additionally, it will present the practices and explorations done by Apache Rock
 
 <img src="https://sessionize.com/image/d767-400o400o1-GDcfWFXy2nx3iSwf9Qd5M1.png" width="200" /><br/>
 
-Apache RocketMQ PMC,  Lead of Alibaba Cloud EventBridge, focusing on EDA research.
+Apache RocketMQ PMC member,  Lead of Alibaba Cloud EventBridge, focusing on EDA research.

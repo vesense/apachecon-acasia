@@ -2,7 +2,7 @@
 title: "Best Practices for High Availability of Apache Pulsar on Tencent Cloud"
 date: ""
 track: "messaging"
-presenters: "明泽 韩"
+presenters: "Mingze Han"
 stype: "Chinese Session"
 --- 
 
