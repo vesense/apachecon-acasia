@@ -3,7 +3,12 @@ title: Microservice
 trackchairs: "Jun Liu"
 ---
 
-Microservices architecture remains the foundational framework for building the vast majority of applications today, not to mention the substantial existing ecosystem of microservice-based applications. Therefore, exploring how to construct efficient and stable microservices architectures should always be a primary focus.
+Whether in the era of Cloud Native or AI-led transformation today, microservices remain the cornerstone of underlying systems, helping us build resilient and scalable distributed systems. Join us as we uncover:
 
-We have also observed the rapid advancement of AI agent technologies. Microservices need to consider integration with AI agent technologies—such as enhancing the efficiency and stability of agent development, and enabling rapid adoption of intelligent capabilities for existing microservices applications.
+* High-Performance RPC Frameworks – Learn how projects like Apache Dubbo, Apache Thrift, and Apache bRPC are redefining service-to-service communication with speed, efficiency, and interoperability.
 
+* AI-Driven Microservices – Discover how AI and ML are revolutionizing service orchestration, anomaly detection, and autonomous scaling in microservice ecosystems.
+
+* The Next-Gen Service Mesh – Beyond traditional sidecars, we explore the rise of Proxyless Service Mesh and how it transforms observability, security, and traffic management in cloud-native environments.
+
+* Cloud-Native Microservices – From Kubernetes to serverless, we discuss how cloud-native principles optimize microservice architectures for scalability, resilience, and automation.
