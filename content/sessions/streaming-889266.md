@@ -12,10 +12,6 @@ We will first discuss the limitations and pain points of Kafka when used with Fl
 
 Finally, we’ll explore real-world use cases of Flink + Fluss, showcasing how this powerful combination delivers true benefits like reduced infrastructure costs, improved performance, and enhanced stability for large-scale streaming and batch workloads.
 
-====================================================
-
-NOTE FOR THE COMMITTEE: Fluss is currently an open-source project under the Alibaba organization and is planned to be donated to the Apache Software Foundation in May 2025. If all goes as planned, it will likely be an Apache incubating project by the time the conference takes place.
-
 
 ### Speakers:
 

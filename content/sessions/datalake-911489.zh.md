@@ -19,7 +19,7 @@ Weiting 是英特尔数据中心和人工智能事业部的高级软件工程师
 
 <img src="https://sessionize.com/image/22e8-400o400o1-nPfwNC4gYPKosjbJtNQhjh.jpg" width="200" /><br/>
 
-Xixu Wang: 顺丰科技，大数据平台研发高级工程师，apache doris committer, apache kudu pmc
+Xixu Wang: 顺丰科技，大数据平台研发高级工程师，apache doris committer, apache kudu pmc 成员
 
 先后在百度，微博，小米，神策工作过，主要从事大数据计算引擎，存储引擎开发，先后参与Apache Doris, Apache Kudu, Apache Gluten开发，在大数据领域有着丰富的经验
 

@@ -19,7 +19,7 @@ Weiting is a senior software engineer at Intel's Data Center and AI Group. With 
 
 <img src="https://sessionize.com/image/22e8-400o400o1-nPfwNC4gYPKosjbJtNQhjh.jpg" width="200" /><br/>
 
-Xixu Wang: Shunfeng Technology, Big Data Platform R&D Senior Engineer, apache doris committer, apache kudu pmc
+Xixu Wang: Shunfeng Technology, Big Data Platform R&D Senior Engineer, apache doris committer, apache kudu pmc member
 
 He has worked in Baidu, Weibo, Xiaomi, and Shenze, mainly engaged in big data computing engine, storage engine development, and has participated in Apache Doris, Apache Kudu, Apache Gluten development, and has a wealth of experience in big data field.
 

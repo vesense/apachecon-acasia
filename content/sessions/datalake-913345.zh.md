@@ -28,6 +28,6 @@ stype: "中文演讲"
 
 <img src="https://sessionize.com/image/d454-400o400o1-ahCLB728yY3mjf8N7yAAtu.jpg" width="200" /><br/>
 
-He Zhengjie: 字节跳动大数据工程师
+何正杰: 字节跳动大数据工程师
 
 我是一名大数据工程师，在查询引擎优化方面拥有数年专业知识，专门从事大规模数据系统的性能调整和经济高效的查询执行。
