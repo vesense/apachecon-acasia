@@ -47,7 +47,7 @@ jobs:
           path: dist
       - name: 🔧 Build site
         run: |
-          env HUGO_ENV="production" hugo
+          env HUGO_ENV="production" hugo -F
       - name: 👷 Cleanup dist directory except .git, 2024 and CNAME (each fork can have its own CNAME)
         if: ${{ github.event_name == 'push' }}
         run: find ./dist -mindepth 1 ! -path ./dist/CNAME ! -path './dist/.git*' ! -path './dist/2024*' -delete -print
