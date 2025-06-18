@@ -1,6 +1,7 @@
 ---
 title: "Large-scale Shuffle with Apache Celeborn at Ant Group"
-date: ""
+date: "2025-07-25T14:00:00"
+room:  "Mtn WanShou Hall"
 track: "datastorage"
 presenters: "Erik Fang"
 stype: "Chinese Session"
@@ -18,4 +19,3 @@ Erik Fang: Software Engineer at Ant Group, Tech Leader
 
 Erik Fang,
 Software Engineer at Ant Group, Tech Leader
-

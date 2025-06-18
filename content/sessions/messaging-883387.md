@@ -1,6 +1,7 @@
 ---
 title: "Best Practices for High Availability of Apache Pulsar on Tencent Cloud"
-date: ""
+date: "2025-07-25T14:30:00"
+room:  "JingYi Hall"
 track: "messaging"
 presenters: "Mingze Han"
 stype: "Chinese Session"
@@ -18,4 +19,3 @@ In this speech, we will focus on Apache Pulsar on Tencent Cloud's best practices
 Mingze Han: tencent
 
 Graduated from Wuhan University majoring in computer science. Tencent Cloud senior R&D engineer. Open source community enthusiast. I have more than 8 years of experience in message queue-related R&D and operations in Meituan and Tencent. Currently, I am mainly responsible for the core part of Tencent Cloud TDMQ for Pulsar product. At the same time, I am an Apache Pulsar Contributor and RoP Maintainer.=
-

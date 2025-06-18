@@ -1,6 +1,7 @@
 ---
 title: "Apache HugeGraph 1.5.0: Best Practices for Enterprise-Grade Deployment"
-date: ""
+date: "2025-07-26T15:45:00"
+room:  "Mtn BaiWang Hall"
 track: "general"
 presenters: "Hao Zhao"
 stype: "Chinese Session"
@@ -16,4 +17,3 @@ This session presents enterprise-level upgrade practices from Apache HugeGraph 0
 Hao Zhao:  Apache Hugegraph Contributor/Senior Big Data Engineer
 
  Apache Hugegraph Contributor/Senior Big Data Engineer
-

@@ -1,6 +1,7 @@
 ---
 title: "Apache Cassandra: Past, Present, and Future"
-date: ""
+date: "2025-07-26T14:30:00"
+room:  "Mtn WanShou Hall"
 track: "datastorage"
 presenters: "Guo Chao"
 stype: "English Session"
@@ -16,4 +17,3 @@ An introduction to Cassandra's past and present features , as well as sharing wh
 Guo Chao: Database Engineer、NoSQL
 
 Apache Cassandra Committer
-

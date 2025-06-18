@@ -1,6 +1,7 @@
 ---
 title: "Apache SeaTunnel MCP Introduction and Demonstration"
-date: ""
+date: "2025-07-27T15:45:00"
+room:  "Mtn WanShou Hall"
 track: "dataops"
 presenters: "Haicheng Zhang"
 stype: "Chinese Session"
@@ -17,5 +18,3 @@ A Model Context Protocol (MCP) server for Apache Seatunnel. This provides access
 Haicheng Zhang: Aisino Big Data Development Engineer Development Team Leader
 
 A Practitioner Who Likes to Toss
-
-

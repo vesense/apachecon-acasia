@@ -1,6 +1,7 @@
 ---
 title: "Celeborn’s Revolution in Multi-Engine Support, Performance Mastery, and Enterprising Innovation"
-date: ""
+date: "2025-07-26T16:15:00"
+room:  "Mtn WanShou Hall"
 track: "datastorage"
 presenters: "Jiashu Xiong, Ethan Feng"
 stype: "Chinese Session"
@@ -33,4 +34,3 @@ Apache Celeborn PMC member, mainly focused on the optimization of Apache Celebor
 Ethan Feng: Aliyun,senior developer
 
 PMC member of Apache Celeborn, mainly focused on optimizing Apache Celeborn.
-

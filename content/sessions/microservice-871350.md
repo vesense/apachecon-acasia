@@ -1,6 +1,7 @@
 ---
 title: "Secure your Dubbo application using Triple and xDS"
-date: ""
+date: "2025-07-27T16:15:00"
+room:  "JingMing Hall"
 track: "microservice"
 presenters: "Heqing Jiang"
 stype: "Chinese Session"
@@ -16,4 +17,3 @@ Currently Cloud Native Security is becoming more and more important. Dubbo as a 
 Heqing Jiang: Apache Dubbo PMC
 
 Apache Dubbo PMC. Interested in Cloud Native, Micro Service and Security.
-

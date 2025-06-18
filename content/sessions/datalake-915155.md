@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Apache Cloudberry: Evolution, Key Features, and Roadmap"
-date: ""
+date: "2025-07-26T15:45:00"
+room:  "WanChun Hall"
 track: "datalake"
 presenters: "Max Yang"
 stype: "Chinese Session"
@@ -17,4 +18,3 @@ In this session, we’ll explore the origin of the project, its journey into the
 Max Yang: Apache Cloudberry PPMC Member, Tech VP of HashData
 
 Apache Cloudberry PPMC Member, Tech VP of HashData
-
