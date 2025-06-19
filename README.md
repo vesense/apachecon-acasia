@@ -30,35 +30,25 @@ hugo -b https://apachecon.com/acasia2023/ -d <destination_directory> -F
 ## FAQ
 
 ### How to fix the typos in Session page
-If you want to fix session typos of https://apachecon.com/acasia2023/sessions/1155.html
-You just need to go the file 1155.md in content/sessions directory.
-If it is chinese version, you just need to update the file of 1155.zh.md.
+If you want to fix session typos of https://asia.communityovercode.org/sessions/cloudnative-913295.html
+You just need to go the file cloudnative-913295.md in content/sessions directory.
+If it is chinese version, you just need to update the file of cloudnative-913295.zh.md.
 
 
 ### How can I publish the website to ApacheCon
-First you need to write access right of [ApacheCon website](https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2022/)
+First you need to write access right of [ApacheCon website]
 
 Checking out the this repo
 ```
-git@github.com:alc-beijing/acasia-website.git <source-directory>
-```
-
-Checking out the content of website to <site-directory>
-```
-svn co https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2022/ <site-directory>
+git@github.com:apache/acasia-website.git <source-directory>
 ```
 
 After doing some modifications on the markdown files, you can use hugo command to generate the website from the source directory
 ```
 cd <source-directory>
-hugo -b https://apachecon.com/acasia2022/ -d <site-directory> -F
+hugo -b https://asia.communityovercode.org/ -d <site-directory> -F
 ```
 
-Publishing the website
-```
-cd <site-directory>
-svn ci -m "Publish the website of acasia2022"
-```
 
 ### How can I modify the content of the main page:
 
