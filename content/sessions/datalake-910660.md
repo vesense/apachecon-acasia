@@ -4,7 +4,7 @@ date: "2025-07-27T14:30:00"
 room:  "WanChun Hall"
 track: "datalake"
 presenters: "Lidong Dai"
-stype: "English Session"
+stype: "Chinese Session"
 ---
 
 Abstract:
