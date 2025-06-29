@@ -99,14 +99,14 @@ async function updateSessionDates() {
             if (parts) {
               // 更新 frontmatter 中的 date
               const info = sessionDates.get(baseName);
-              const realRoom = ext.includes('zh') ? roomJson[info.room] : info.room;
+              const realRoom = (ext.includes('zh') ? roomJson[info.room] : info.room) || "";
               let updatedFrontmatter = parts.frontmatter;
               // 检查是否存在 room 字段
               if (updatedFrontmatter.includes('room:')) {
                 // 更新已存在的 room 和 date
                 updatedFrontmatter = updatedFrontmatter
                   .replace(/^date:.*$/m, `date: "${info.scheduledDate}"`)
-                  .replace(/^room:.*$/m, `room:  "${realRoom}"`);
+                  .replace(/^room:.*$/m, `room: "${realRoom}"`);
               } else {
                 // 只更新 date，并添加 room
                 updatedFrontmatter = updatedFrontmatter

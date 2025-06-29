@@ -1,7 +1,7 @@
 ---
 title: "Apache Flink 2.0 的存算分离"
 date: "2025-07-25T16:15:00"
-room:  "圆明厅"
+room: "圆明厅"
 track: "streaming"
 presenters: "Zhaoqian (Zakelly) Lan"
 stype: "中文演讲"

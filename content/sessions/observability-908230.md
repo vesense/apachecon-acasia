@@ -1,7 +1,7 @@
 ---
 title: "Exploration and Practice of SkyWalking in Ruby Agent and MCP"
 date: "2025-07-27T15:45:00"
-room:  "Mtn Yang Hall"
+room: "Mtn Yang Hall"
 track: "observability"
 presenters: "Zixin Zhou"
 stype: "Chinese Session"
