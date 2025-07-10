@@ -3,7 +3,7 @@ title: "掌握大规模 Shuffle：Dream11 使用远程 Shuffle 服务的实战�
 date: "2025-07-25T14:30:00"
 room: "万寿山会议室"
 track: "datastorage"
-presenters: "Ravi Rana, Mehul Batra, Mohit Jain"
+presenters: "Amit Shinde, Mohit Jain"
 stype: "英文演讲"
 ---
 
@@ -11,20 +11,11 @@ stype: "英文演讲"
  
 ### 讲师:
 
-<img src="https://sessionize.com/image/c023-400o400o1-XrDyFVcAPGBBg2RCKps4W4.jpg" width="200" /><br/>
+<img src="https://sessionize.com/image/f103-400o400o2-UWzQTr6XwxL4WAQB6aPxgn.png" width="200" /><br/>
 
-Ravi Rana: 技术负责人
+Amit Shinde: 技术负责人
 
-Ravi Rana 是 Dream11 的技术负责人，拥有 10 年以上的软件工程专业经验。
-
-
-<img src="https://sessionize.com/image/ff4d-400o400o1-Wr3YbdVGhUXaDsQG43bhfe.png" width="200" /><br/>
-
-Mehul Batra: 技术负责人
-
-一直在寻找吸引人的数据基础设施项目和读物
-(训练你的思维和身体)
-
+Amit Shinde 是 Dream11 工程总监，拥有 14 年以上的软件工程专业经验。
 
 <img src="https://sessionize.com/image/cb28-400o400o1-Utccibvy6GXbntEwxXRRRY.jpg" width="200" /><br/>
 
