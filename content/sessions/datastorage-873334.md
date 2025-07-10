@@ -3,7 +3,7 @@ title: "Mastering Large-Scale Shuffle: The Dream11 Playbook with Remote Shuffle 
 date: "2025-07-25T14:30:00"
 room: "Mtn WanShou Hall"
 track: "datastorage"
-presenters: "Ravi Rana, Mehul Batra, Mohit Jain"
+presenters: "Amit Shinde, Mohit Jain"
 stype: "English Session"
 ---
 
