@@ -1,5 +1,5 @@
 ---
-title: Convince Your Boss
+title: Code of conduct
 weight: 22
 ---
 
