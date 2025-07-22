@@ -2,7 +2,7 @@
 title: "圆桌讨论：独立开发者的黄金时代"
 date: "2025-07-26T11:30:00"
 track: "keynote"
-presenters: "高阳, 杨攀, 罗百顺, 祁宁, 阴明"
+presenters: "高 阳, 杨 攀, 罗百顺, 祁 宁, 阴 明"
 stype: "中文演讲"
 room: "主会场 - 颐和厅"
 ---
@@ -20,14 +20,14 @@ AI 浪潮奔涌，独立开发者的机遇与挑战何在？ 本次圆桌汇聚 
 
 <img src="https://sessionize.com/image/d56d-400o400o1-N2hasf71rtrW7zcbvx1JeJ.jpg" width="200" /><br/>
 
-高阳: SegmentFault 思否 CEO
+高 阳: SegmentFault 思否 CEO
 
 SegmentFault（思否）首席执行官，Apache Answer联合创始人，坚信开源改变世界。
 
 
 <img src="https://sessionize.com/image/6ff3-400o400o1-XGxtrdY6S65QrCgZ7yiS45.jpg" width="200" /><br/>
 
-杨攀: Co-founder, SiliconFlow
+杨 攀: Co-founder, SiliconFlow
 
 杨潘是中国科技创业领域的知名人士，在中国科技创业生态圈中拥有深厚人脉。
 作为融云联合创始人兼前首席技术官，他白手起家打造了全球规模最大的即时通讯云服务。
@@ -44,7 +44,7 @@ SegmentFault（思否）首席执行官，Apache Answer联合创始人，坚信�
 
 <img src="https://sessionize.com/image/32d2-400o400o1-PPktmtfpFjoUeM4CaPMagm.jpg" width="200" /><br/>
 
-祁宁: SegmentFault CTO, PMC Chair of Apache Answer
+祁 宁: SegmentFault CTO, PMC Chair of Apache Answer
 
 Joyqi（祁宁）是一位资深的软件工程师和创业者，他最为人熟知的身份是中国领先开发者问答社区SegmentFault的创始人兼首席技术官。拥有超过15年Web开发和开源创新经验的他，曾打造出广受开发者青睐的轻量级博客系统Typecho。目前他主导开源问答平台Answer.dev的研发工作，该项目已从Apache孵化器毕业，现作为Apache顶级项目蓬勃发展。Joyqi始终致力于为开发者构建赋能工具与社区，其作品以简洁性、高性能和开放协作精神为核心特质。
 

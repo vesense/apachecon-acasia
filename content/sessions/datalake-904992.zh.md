@@ -1,6 +1,6 @@
 ---
 title: "货拉拉生产环境中的Apache Amoro与Iceberg实践"
-date: "2025-07-25T15:00:00"
+date: "2025-07-25T14:30:00"
 room: "万春厅"
 track: "datalake"
 presenters: "Zheng Yu Chen"

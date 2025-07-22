@@ -23,7 +23,7 @@ This co-evolution ultimately forms a closed-loop system: digital civilization sh
 
 <img src="https://sessionize.com/image/6591-400o400o1-GnAuCi7bbkTH3Bxk6i2Qcr.jpg" width="200" /><br/>
 
-Qigang Zhu: Freelancer
+Qigang Zhu: Vice Director of the Global Open Source Collaboration Research Center, University of International Business and Economics
 
 Deputy Secretary-General, Shanghai Open Source Information Technology Association Deputy Director, Global Open Source Collaboration Research Center, University of International Business and Economics Executive Committee Member, Open Source Development Committee, China Computer Federation
 Advisor, KAIYUANSHE Open Source Advisor, China Association of Automobile Manufacturers Open Source Advisor, Beijing Academy of Artificial Intelligence Co-founder, Open Science and Technology National Open Source Platform Former Core Member, OpenHarmony Team, Chinese Academy of Sciences Institute of Software Former Founding Ecosystem Lead & Education Lead, OpenHarmony Project Former Head of Business Development, Education & Training, and Industry Research Departments, OpenAtom Foundation One of China’s early pioneers in open-source hardware and open-source education

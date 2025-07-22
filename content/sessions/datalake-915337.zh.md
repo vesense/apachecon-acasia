@@ -1,6 +1,6 @@
 ---
 title: "Apache Hudi 实战：加速快手数据仓库架构升级"
-date: "2025-07-25T16:15:00"
+date: "2025-07-25T15:00:00"
 room: "万春厅"
 track: "datalake"
 presenters: "刘朝阳"

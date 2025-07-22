@@ -1,6 +1,6 @@
 ---
 title: "Apache Iceberg: Table Maintenance Strategies for High-Performance Data Lakehouses"
-date: "2025-07-25T14:00:00"
+date: "2025-07-27T17:45:00"
 room: "WanChun Hall"
 track: "datalake"
 presenters: "Akshat Mathur"
