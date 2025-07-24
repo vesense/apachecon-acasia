@@ -16,4 +16,4 @@ room: "主会场 - 颐和厅"
 
 姜 宁: CoC Asia大会主席、Apache软件基金会（ASF）成员、字节跳动开源办公室首席布道师
 
-姜宁（Willem Jiang）现任字节跳动开源办公室首席布道师，Apache 软件基金会会员。他深度参与过 Apache Camel、CXF、ServiceMix、ServiceComb 等多个开源项目的贡献。在加入字节跳动前，姜宁曾担任华为开源技术专家六年，更早之前作为首席工程师在RedHat 主导 Fuse ESB 项目研发，并曾服务于 FuseSource、IONA 及中国航信等企业。
+姜宁（Willem Jiang）现任字节跳动开源办公室布道师，Apache 软件基金会会员。他深度参与过 Apache Camel、CXF、ServiceMix、ServiceComb 等多个开源项目的贡献。在加入字节跳动前，姜宁曾担任华为开源技术专家六年，更早之前作为首席工程师在RedHat 主导 Fuse ESB 项目研发，并曾服务于 FuseSource、IONA 及中国航信等企业。

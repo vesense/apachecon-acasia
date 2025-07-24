@@ -16,4 +16,4 @@ As the opening keynote for Community Over Code Asia, we will briefly review the 
 
 Willem Jiang: CoC Asia conference Chair， ASF Member， ByteDance Open Source Office Chief Evangelist
 
-Willem Jiang (Jiang Ning) is the principal Open Source Evangelist of ByteDance OSPO , and a memeber of the Apache Software Foundation. He has contributed to various Apache projects, including Camel, CXF, ServiceMix, and ServiceComb. Prior to joining ByteDance, Willem was the open source technical expert of Huawei for six years. Before that, he was  the principal engineer of RedHat working on Fuse ESB. He also worked for FuseSource, IONA and Travelsky.inc.
+Willem Jiang (Jiang Ning) is the Open Source Evangelist of ByteDance OSPO , and a memeber of the Apache Software Foundation. He has contributed to various Apache projects, including Camel, CXF, ServiceMix, and ServiceComb. Prior to joining ByteDance, Willem was the open source technical expert of Huawei for six years. Before that, he was  the principal engineer of RedHat working on Fuse ESB. He also worked for FuseSource, IONA and Travelsky.inc.
